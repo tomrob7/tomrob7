@@ -2,7 +2,7 @@
 - 👀 I’m interested in community development, gardening, natural resource management, regenerative agriculture, technological innovation
 - 🌱 I’m currently learning Python, database management
 - 💞️ I’m looking to collaborate on Unknown
-- 📫 How to reach me ...
+- 📫 How to reach me via tomrob7@gmail.com
 
 <!---
 tomrob7/tomrob7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
